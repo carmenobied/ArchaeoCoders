@@ -1,7 +1,7 @@
 # ArchaeoCoders
 ![Project license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
-## ArchaeoCoders: Coding for Archaeology.
+## ArchaeoCoders: Coding for Archaeology
 
 **Projects, meetups, workshops, webinars, events and more!**
 
