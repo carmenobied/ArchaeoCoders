@@ -1,11 +1,11 @@
 # ArchaeoCoders
 ![Project license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
-ArchaeoCoders: Coding for Archaeology. 
+## ArchaeoCoders: Coding for Archaeology.
 
-Projects, meetups, workshops, webinars, events and more!
+**Projects, meetups, workshops, webinars, events and more!**
 
-ArchaeoCoders, a sub-branch of [ArchaeoStories](https://carmenobied.github.io/ArchaeoStories), is a community platform for #ArchaeologistsWhoCode, Coders who are interested in Archaeology, and Archaeologists interested in Coding. Merging modern and ancient worlds!
+[ArchaeoCoders](https://archaeocoderscom), a sub-branch of [ArchaeoStories](https://archaeostories.com), is a community platform for #ArchaeologistsWhoCode, Coders who are interested in Archaeology, and Archaeologists interested in Coding. Merging modern and ancient worlds!
 
 Coming soon!
 
