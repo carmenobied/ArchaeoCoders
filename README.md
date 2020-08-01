@@ -3,7 +3,7 @@
 
 ## ArchaeoCoders: Coding for Archaeology
 
-**Projects, meetups, workshops, webinars, events and more!**
+**Projects, meetups, workshops, webinars, and events**
 
 [ArchaeoCoders](https://archaeocoderscom), a sub-branch of [ArchaeoStories](https://archaeostories.com), is a community platform for #ArchaeologistsWhoCode, Coders who are interested in Archaeology, and Archaeologists interested in Coding. Merging modern and ancient worlds!
 
