@@ -7,7 +7,7 @@
 
 [ArchaeoCoders](https://archaeocoders.com), a sub-branch of [ArchaeoStories](https://archaeostories.com), is a community platform for #ArchaeologistsWhoCode, Coders who are interested in Archaeology, and Archaeologists who are interested in Coding. Merging modern and ancient worlds!
 
-Coming soon!
+Coming soon! Read more about my journey on [Medium](https://medium.com/@ArchaeoCoders).
 
 ## Contributing
 Pull requests are welcome. Please use the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md) and for major changes, please open an issue beforehand to discuss the changes.
